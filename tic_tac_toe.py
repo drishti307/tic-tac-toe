@@ -5,6 +5,8 @@ import pandas as pands
 
 pygame.init()
 
+# commet1
+
 WIDTH=600
 HEIGHT=700
 BDR=3
