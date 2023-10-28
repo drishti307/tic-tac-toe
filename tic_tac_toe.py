@@ -1,10 +1,11 @@
 import pygame, sys
 import numpy as np
+import pandas as pands 
 
 pygame.init()
 
 WIDTH=600
-HEIGHT=600
+HEIGHT=700
 BDR=3
 BDC=3
 BGC=(28,170,156)
