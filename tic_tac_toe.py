@@ -1,7 +1,5 @@
 import pygame, sys
 import numpy as np
-import util
-import pandas as pands 
 
 pygame.init()
 
@@ -9,7 +7,7 @@ pygame.init()
 # comment2
 
 WIDTH=600
-HEIGHT=700
+HEIGHT=600
 BDR=3
 BDC=3
 BGC=(28,170,156)
