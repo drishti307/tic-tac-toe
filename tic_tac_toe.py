@@ -5,7 +5,8 @@ import pandas as pands
 
 pygame.init()
 
-# commet1
+# comment1
+# comment2
 
 WIDTH=600
 HEIGHT=700
