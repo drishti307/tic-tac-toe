@@ -4,7 +4,7 @@ import numpy as np
 pygame.init()
 
 WIDTH=600
-HEIGHT=700
+HEIGHT=600
 BDR=3
 BDC=3
 BGC=(28,170,156)
